@@ -253,13 +253,4 @@ export default class extends Vue {
 10. 详细API说明
     <https://github.com/kaorun343/vue-property-decorator>
     
-    
-------
 
-任合宇
-
-电话：17611106201
-
-Email：[renheyu@coohua.com](mailto:renheyu@coohua.com)
-
-北京酷划在线网络技术有限公司
